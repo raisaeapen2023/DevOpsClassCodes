@@ -6,7 +6,7 @@ designed. Please note this example uses and requires Java 8 to work..  test test
 sssssssss new edit
 Edit to test scm pollingmkm
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
-Edit 3
+Edit 4 new
 
 Running the example from the command line
 -------------------
